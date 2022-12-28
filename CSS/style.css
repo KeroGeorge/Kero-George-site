@@ -8,6 +8,11 @@ body {
     color:#251749
 }
 
+.my-name-text{
+    color:#251749;
+    margin-top:50px;
+}
+
 h1 {
     font-size:4.625rem;
     margin:50px auto 0 auto;
@@ -136,6 +141,7 @@ hr {
 
 .profile-img{
     width:15%;
+    margin-top:50px;
 }
 
 .skill-img{
